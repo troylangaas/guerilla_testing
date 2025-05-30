@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
         // Create the image
         const image = document.createElement('img');
-        image.src = 'assets/designer.jpeg'; // Link to your image in the assets folder
+        image.src = 'assets/Designer.jpeg'; // Link to your image in the assets folder
         image.alt = 'Sale Item';
         image.style.maxWidth = '300px'; // Set maximum width
         image.style.height = 'auto'; // Maintain aspect ratio
